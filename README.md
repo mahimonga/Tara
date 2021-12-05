@@ -1,4 +1,4 @@
-# Taara🌟
+# Tara🌟
 
 
 ## References for dataset and data:
