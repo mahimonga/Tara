@@ -2,7 +2,7 @@
 
 
 
-## Tara🌟🎗🎀
+## Tara 🌟
 
 
 # Introduction
@@ -60,15 +60,24 @@ These are some facts about it for paryicaularly in India:
 - Upgrading to SHA-512 data-security protocols
 - Onboarding with support groups
 - Collaborating with more global and local NGOs/ Organization 
+
+# Challenges we ran into
+- While integrating the static files with Django we ran into a bunch of errors.
+- We had a problem cloning the static files during the deployment so we changed some of our files into links by uploading the files to the cloud.
+- We had many problems while integrating the NLP chatbot while integrating it with Django so we found another way todeploy the chatbot.
+
+
 # Contributors 
 
 - [Mahi Monga](https://www.linkedin.com/in/mahimonga/)
 - [Kushagra Bhagat](https://www.linkedin.com/in/kushagrabhagat/)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 
 ## References for dataset and data:
 - https://en.wikipedia.org/wiki/Breast_cancer
 - https://www.uicc.org/what-we-do/thematic-areas-work/breast-cancer?gclid=Cj0KCQiA47GNBhDrARIsAKfZ2rDNaOq7uV0LpCBe878QFEswfotT1ZhQQoxa4t426PULCq3pt0MNQB8aAj4ZEALw_wcB
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
