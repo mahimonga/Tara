@@ -3,7 +3,7 @@
 
 
 ## Tara 🌟
-
+Tara is one place solution for all breast cancer related issues, from connecting to a doctor or connecting to a NGO or getting know about nearest doctor around your or fixing you appointments and keeping track of your appointments or if any volunteer or anyone who is related to the breast cancer patient or the breast cancer patient itself for awareness about breast cancer, connecting to your fellow breast cancer patients,getting tips how to ease the situation and many more, in short we have got you covered!
 
 # Introduction
 
