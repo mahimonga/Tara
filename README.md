@@ -28,7 +28,7 @@ These are some facts about it for paryicaularly in India:
 
 - Factors like lack of proper information, communication, awareness, financial condition, improper medications, immobility, and lack of support groups are also the causes of this cancer increasing at an alarming rate
 
-# Problem Breasty solves
+# Problem Tara solves
 - Pre-cancer stage:
   We have chatbot as a feature which will offer you self assesment and guidance and will make you aware about facts about the breast cancer, you     can play mini quiz too if you want to text your knowledge. 
 - Cancer patient stage 
